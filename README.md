@@ -1,5 +1,4 @@
-# BanglaWriting
-BanglaWriting: A multi-purpose Bangla offline-handwriting dataset
+# BanglaWriting: A multi-purpose Bangla offline-handwriting dataset
 
 DOI link: http://dx.doi.org/10.17632/r43wkvdk4w.1
 
