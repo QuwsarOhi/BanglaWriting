@@ -11,6 +11,12 @@ The BanglaWriting dataset contains single-page handwritings of 260 individuals o
 
 ### Description of the code
 
+The [convert_image](https://github.com/QuwsarOhi/BanglaWriting/blob/01be2bfe7ed30734affa8aae31f7ac256f0226a1/writingMod.py#L58) recieves an image path and returns an improved image.
+
+An example of the input and output image is given.
+
+![example](https://github.com/QuwsarOhi/BanglaWriting/blob/main/example.jpg)
+
 
 ## Cite the dataset
 
