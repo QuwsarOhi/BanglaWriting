@@ -1,9 +1,12 @@
 # BanglaWriting: A multi-purpose Bangla offline-handwriting dataset
 
-DOI link: http://dx.doi.org/10.17632/r43wkvdk4w.1
+DOI Link: http://dx.doi.org/10.17632/r43wkvdk4w.1
+
+Dataset Manual/Paper: https://arxiv.org/abs/2011.07499
 
 The repository contains the python scripts to generate the converted images of the BanglaWriting dataset.
 
+For more detailed information of the dataset, please see the [dataset manual](https://arxiv.org/abs/2011.07499).
 
 ### Description of the dataset
 
@@ -29,6 +32,18 @@ An example of the input and output image is given.
       publisher = {Mendeley},
       year = {2020}
     }
+
+
+## Cite manual 
+
+    @misc{2011.07499,
+      Author = {M. F. Mridha and Abu Quwsar Ohi and M. Ameer Ali and Mazedul Islam Emon and Muhammad Mohsin Kabir},
+      Title = {BanglaWriting: A multi-purpose offline Bangla handwriting dataset},
+      Year = {2020},
+      Eprint = {arXiv:2011.07499},
+    }
+
+
 
 ## Cite this code
 
